@@ -1,0 +1,13 @@
+2020-11-04 17:26:21,523 INFO    Thread-60 :13080 [wandb_init.py:_log_setup():293] Logging user logs to C:\Users\kalya\OneDrive - University of Illinois at Chicago\!UIC\!Semesters\3rd Sem\CS 583 Data Mining and Text Mining\Research Project\Models for combined data\wandb\run-20201104_172621-tlsmlork\logs\debug.log
+2020-11-04 17:26:21,523 INFO    Thread-60 :13080 [wandb_init.py:_log_setup():294] Logging internal logs to C:\Users\kalya\OneDrive - University of Illinois at Chicago\!UIC\!Semesters\3rd Sem\CS 583 Data Mining and Text Mining\Research Project\Models for combined data\wandb\run-20201104_172621-tlsmlork\logs\debug-internal.log
+2020-11-04 17:26:21,543 INFO    Thread-60 :13080 [wandb_setup.py:_flush():69] setting env: {'project': 'RTE - Hyperparameter Optimization', 'entity': 'kalyankumarp', 'root_dir': 'C:\\Users\\kalya\\OneDrive - University of Illinois at Chicago\\!UIC\\!Semesters\\3rd Sem\\CS 583 Data Mining and Text Mining\\Research Project\\Models for combined data', 'sweep_id': 'iu9y9vhg', 'run_id': 'tlsmlork', 'config_paths': 'C:\\Users\\kalya\\OneDrive - University of Illinois at Chicago\\!UIC\\!Semesters\\3rd Sem\\CS 583 Data Mining and Text Mining\\Research Project\\Models for combined data\\wandb\\sweep-iu9y9vhg\\config-tlsmlork.yaml'}
+2020-11-04 17:26:21,577 INFO    Thread-60 :13080 [wandb_setup.py:_flush():69] setting user settings: {'email': 'kalyanpaladugula@gmail.com'}
+2020-11-04 17:26:21,578 INFO    Thread-60 :13080 [wandb_setup.py:_flush():69] multiprocessing start_methods=spawn
+2020-11-04 17:26:21,578 INFO    Thread-60 :13080 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000020013E85EE0>
+2020-11-04 17:26:31,028 INFO    Thread-60 :13080 [wandb_run.py:_console_start():1290] atexit reg
+2020-11-04 17:26:31,029 INFO    Thread-60 :13080 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-11-04 17:26:31,030 INFO    Thread-60 :13080 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-11-04 17:26:31,030 INFO    Thread-60 :13080 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-11-04 17:26:48,310 INFO    Thread-60 :13080 [wandb_run.py:finish():988] finishing run kalyankumarp/RTE - Hyperparameter Optimization/tlsmlork
+2020-11-04 17:26:48,310 INFO    Thread-60 :13080 [wandb_init.py:_jupyter_teardown():225] cleaning up jupyter logic
+2020-11-04 17:26:48,310 INFO    Thread-60 :13080 [jupyter.py:save_history():200] not saving jupyter history

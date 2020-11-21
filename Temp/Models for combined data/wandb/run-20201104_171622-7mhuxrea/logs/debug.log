@@ -1,0 +1,13 @@
+2020-11-04 17:16:22,709 INFO    Thread-24 :13080 [wandb_init.py:_log_setup():293] Logging user logs to C:\Users\kalya\OneDrive - University of Illinois at Chicago\!UIC\!Semesters\3rd Sem\CS 583 Data Mining and Text Mining\Research Project\Models for combined data\wandb\run-20201104_171622-7mhuxrea\logs\debug.log
+2020-11-04 17:16:22,709 INFO    Thread-24 :13080 [wandb_init.py:_log_setup():294] Logging internal logs to C:\Users\kalya\OneDrive - University of Illinois at Chicago\!UIC\!Semesters\3rd Sem\CS 583 Data Mining and Text Mining\Research Project\Models for combined data\wandb\run-20201104_171622-7mhuxrea\logs\debug-internal.log
+2020-11-04 17:16:22,709 INFO    Thread-24 :13080 [wandb_setup.py:_flush():69] setting env: {'project': 'RTE - Hyperparameter Optimization', 'entity': 'kalyankumarp', 'root_dir': 'C:\\Users\\kalya\\OneDrive - University of Illinois at Chicago\\!UIC\\!Semesters\\3rd Sem\\CS 583 Data Mining and Text Mining\\Research Project\\Models for combined data', 'sweep_id': 'f2dsi4ct', 'run_id': '7mhuxrea', 'config_paths': 'C:\\Users\\kalya\\OneDrive - University of Illinois at Chicago\\!UIC\\!Semesters\\3rd Sem\\CS 583 Data Mining and Text Mining\\Research Project\\Models for combined data\\wandb\\sweep-f2dsi4ct\\config-7mhuxrea.yaml'}
+2020-11-04 17:16:22,710 INFO    Thread-24 :13080 [wandb_setup.py:_flush():69] setting user settings: {'email': 'kalyanpaladugula@gmail.com'}
+2020-11-04 17:16:22,710 INFO    Thread-24 :13080 [wandb_setup.py:_flush():69] multiprocessing start_methods=spawn
+2020-11-04 17:16:22,710 INFO    Thread-24 :13080 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000200138A8670>
+2020-11-04 17:16:24,966 INFO    Thread-24 :13080 [wandb_run.py:_console_start():1290] atexit reg
+2020-11-04 17:16:24,966 INFO    Thread-24 :13080 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-11-04 17:16:24,966 INFO    Thread-24 :13080 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-11-04 17:16:24,966 INFO    Thread-24 :13080 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-11-04 17:16:25,198 INFO    Thread-24 :13080 [wandb_run.py:finish():988] finishing run kalyankumarp/RTE - Hyperparameter Optimization/7mhuxrea
+2020-11-04 17:16:25,198 INFO    Thread-24 :13080 [wandb_init.py:_jupyter_teardown():225] cleaning up jupyter logic
+2020-11-04 17:16:25,198 INFO    Thread-24 :13080 [jupyter.py:save_history():200] not saving jupyter history

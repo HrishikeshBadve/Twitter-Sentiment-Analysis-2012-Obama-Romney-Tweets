@@ -1,0 +1,20 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.3",
+    "heartbeatAt": "2020-11-04T23:27:08.409737",
+    "startedAt": "2020-11-04T23:27:00.571617",
+    "docker": null,
+    "gpu": "GeForce MX250",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\kalya\\AppData\\Roaming\\jupyter\\runtime\\kernel-832524b7-57b3-4304-8efe-6a0cac6e4ae9.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "DESKTOP-0USB561",
+    "username": "kalya",
+    "executable": "C:\\Users\\kalya\\anaconda3\\python.exe"
+}
